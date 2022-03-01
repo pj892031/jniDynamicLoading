@@ -1,0 +1,5 @@
+interface NewFeature {
+
+    void doStuff();
+
+}
